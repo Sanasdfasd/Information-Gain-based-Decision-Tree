@@ -71,11 +71,9 @@ To redirect output to a file, use the following command.
 
 Following the above procedure to prune the nodes.
 
-For the data Set the train2-win.dat that is given as data for this assignment.
-
 **1.** After pruning the Tree Accuracy on test data is more than the pre pruned tree Accuracy on the same test data.
 
  This justifies that this method of pruning the nodes is acceptable.
 
-Note: The Results of single run are saved in text file (Sample_run_results.txt) in the same folder
+**Note:** The Results of single run are saved in text file (Sample_run_results.txt) in the same folder
 
