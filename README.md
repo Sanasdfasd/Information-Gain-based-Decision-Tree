@@ -1,4 +1,4 @@
-# Information-Gain-based-Decision-Tree
+# Information Gain based Decision Tree
 
 **Code Complication:**
 
