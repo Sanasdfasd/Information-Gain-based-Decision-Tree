@@ -1,6 +1,6 @@
 # Information Gain based Decision Tree
 
-**Code Complication:**
+**Code Compiliation:**
 
 In linux or ubuntu Environment 
 use command g++ ID3_implementation.cpp 
